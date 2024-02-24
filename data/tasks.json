@@ -1,0 +1,72 @@
+[
+    {
+        "taskId": 1,
+        "title": "Complete Project Proposal",
+        "description": "Prepare and submit the project proposal by end of the week",
+        "status": "Incomplete",
+        "assignedTo": "John Doe"
+    },
+    {
+        "taskId": 2,
+        "title": "Review Code Changes",
+        "description": "Review the recent code changes and provide feedback",
+        "status": "Pending Review",
+        "assignedTo": "Jane Smith"
+    },
+    {
+        "taskId": 3,
+        "title": "Implement Login Feature",
+        "description": "Implement login functionality for the application",
+        "status": "Incomplete",
+        "assignedTo": "John Doe"
+    },
+    {
+        "taskId": 4,
+        "title": "Design Landing Page",
+        "description": "Design the landing page layout and user interface",
+        "status": "Incomplete",
+        "assignedTo": "Emily Brown"
+    },
+    {
+        "taskId": 5,
+        "title": "Update Documentation",
+        "description": "Update the project documentation with recent changes",
+        "status": "Pending Review",
+        "assignedTo": "John Doe"
+    },
+    {
+        "taskId": 6,
+        "title": "Fix Bug in User Registration",
+        "description": "Fix a bug preventing users from registering on the website",
+        "status": "Incomplete",
+        "assignedTo": "Jane Smith"
+    },
+    {
+        "taskId": 7,
+        "title": "Create API Documentation",
+        "description": "Create documentation for the application programming interface",
+        "status": "Incomplete",
+        "assignedTo": "Emily Brown"
+    },
+    {
+        "taskId": 8,
+        "title": "Optimize Database Queries",
+        "description": "Optimize database queries to improve application performance",
+        "status": "Pending Review",
+        "assignedTo": "John Doe"
+    },
+    {
+        "taskId": 9,
+        "title": "Test Payment Gateway Integration",
+        "description": "Test integration of payment gateway with the application",
+        "status": "Incomplete",
+        "assignedTo": "Jane Smith"
+    },
+    {
+        "taskId": 10,
+        "title": "Deploy Application to Production",
+        "description": "Deploy the application to production servers for public access",
+        "status": "Incomplete",
+        "assignedTo": "Emily Brown"
+    }
+]
